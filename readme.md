@@ -460,6 +460,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
+- [Product Process](https://github.com/daninfpj/awesome-product-process) - Product management, design and development.
 
 
 ## Work
